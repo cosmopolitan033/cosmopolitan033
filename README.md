@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Zhaocun Sun, an AI Agent Engineer based in Shenzhen, China.<br>💼 I’m currently working at 甄才智能, focusing on AI agents, browser automation, and multi-agent systems.<br>🎓 Master's in Computer Science from Trinity College Dublin; Bachelor's in Computer Science and Technology from Jilin University.<br>👯 I’m looking to collaborate with other developers on projects.<br>💬 Ask me about AI agents, Go, Python, TypeScript, and full-stack development.
+👋 I’m Zhaocun Sun, an AI Agent Engineer based in Shenzhen, China.<br>💼 I’m currently working at [succAIss](https://www.succaiss.com/), an AI startup, focusing on AI agents, browser automation, and multi-agent systems.<br>🎓 Master's in Computer Science from Trinity College Dublin; Bachelor's in Computer Science and Technology from Jilin University.<br>👯 I’m looking to collaborate with other developers on projects.<br>💬 Ask me about AI agents, Go, Python, TypeScript, and full-stack development.
 
 
 ## 🌐 Socials:
